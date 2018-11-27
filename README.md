@@ -5,4 +5,4 @@ Velociraptor implements a Bayesian hierarchical model in order to estimate the v
 
 As written, Velociraptor is designed to read in spec1d files as produced by the DEIMOS spec2d pipeline. If you are not working with DEIMOS data, please modify the "Spectrum" object in spectrum_class.py.
 
-This code makes use of [astropy] (http://www.astropy.org/) and [emcee] (https://github.com/dfm/emcee). 
+This code makes use of [astropy](http://www.astropy.org/) and [emcee](https://github.com/dfm/emcee). 
